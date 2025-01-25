@@ -1,0 +1,6 @@
+apiVersion: v2
+name: atlas-bootstrap
+description: A Helm chart for deploying custom resources for the Atlas Server
+type: application
+version: 0.0.01
+appVersion: 1.0.0
